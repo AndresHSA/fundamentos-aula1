@@ -1,1 +1,6 @@
+<<<<<<<<<HEAD
 Hello New World!
+======
+Hello World!
+This is me
+>>>>>>>> new-feature
